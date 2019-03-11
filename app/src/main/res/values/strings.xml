@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test base datos</string>
+    <string name="action_settings">Settings</string>
+    <string name="escriba_altura">Escriba aca la altura</string>
+    <string name="escriba_encagado">Escriba el nombre del Encargado</string>
+    <string name="escriba_checkeo">Escriba aca la última fecha de revisión</string>
+    <string name="escriba_siembra">Escriba aca la fecha de siembra</string>
+</resources>
